@@ -6,4 +6,9 @@ cases:
 ---
 
 
-`class Solution`
+Github: https://github.com/Ryana-X-x/interviews/blob/master/DSA/Trees/LowestCommonAncestor.java
+
+Traversal: root left right
+
+Time Complexity: O(n)
+Space Complexity: O(h)
