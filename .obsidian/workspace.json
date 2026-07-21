@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Why is String immutable?.md",
+                "file": "OS/LRU Cache (HashMap + Doubly Linked List).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Why is String immutable?"
+              "title": "LRU Cache (HashMap + Doubly Linked List)"
+            }
+          },
+          {
+            "id": "0cc63298c922ae72",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -185,18 +195,33 @@
   },
   "active": "1d85f6981c148158",
   "lastOpenFiles": [
-    "Java/'==' & 'equals()'.md",
-    "Java/Why is String immutable?.md",
+    "Behavioral/A time you didn't know how to solve something.md",
+    "OS/LRU Cache (HashMap + Doubly Linked List).md",
+    "Behavioral/A difficult technical problem you solved.md",
+    "SpringBoot/1000 req?s but still DB handles 200 writes?s.md",
+    "Behavioral",
+    "CN/TCP Three-Way Handshake.md",
+    "SpringBoot",
+    "OS/Process vs Thread.md",
+    "CN",
+    "DBMS/Indexing.md",
+    "OS/Process vs Threads",
+    "OS",
+    "DBMS/Delete vs Truncate vs Drop.md",
+    "OOP/The Four Pillars.md",
+    "DBMS",
+    "Java/'new HashMap<>()' internally.md",
+    "OOP",
+    "DSA/Trees/Deleting a node from a BST.md",
+    "DSA/Trees/Level Order Traversal.md",
     "DSA/Trees/Lowest Common Acestor of a BST.md",
+    "DSA/Trees/LCA of a BST.md",
+    "DSA/Trees/Untitled.base",
+    "Java/HashMap vs Hashtable vs ConcurrentHashMap.md",
+    "Java/ArrayList vs LinkedList.md",
+    "Java/Why is String immutable?.md",
+    "Java/'==' & 'equals()'.md",
     "Java",
-    "DSA/Trees/LowestCommonAncestor.class",
-    "DSA/Trees/TreeNode.class",
-    "DSA/Trees/LowestCommonAncestor.java",
-    "DSA/Trees/lowestCommonAncestor.java",
-    "DSA/Trees/LowestC.java",
-    "DSA/Trees/Low.java",
-    "DSA/Trees/Lowest.java",
-    "DSA/Trees/Lo.java",
-    "DSA/Trees/Level Order Traversal.md"
+    "DSA/Trees/LowestCommonAncestor.class"
   ]
 }

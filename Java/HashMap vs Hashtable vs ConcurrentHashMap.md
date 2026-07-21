@@ -1,0 +1,3 @@
+- **==HashMap==** -- fast, not thread-safe, allows one null key.
+- **==Hashtable==** -- legacy, synchronizes the **entire map** on every operation (one big lock) -> thread-safe but slow under contention.
+-  **==ConcurrentHashMap==** -- the modern answer: uses **fine-grained locking**(bucket-level, or CAS  operations in newer versions) so multiple threads can write to different parts of the map simultaneously. This is why it's preferred over ==Collections.synchronizedMap(new HashMap<>())== too
