@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Trees/Lowest Common Acestor of a BST.md",
+                "file": "Java/Why is String immutable?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lowest Common Acestor of a BST"
+              "title": "Why is String immutable?"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "6eb82ceddbf50c7a",
@@ -185,6 +185,10 @@
   },
   "active": "1d85f6981c148158",
   "lastOpenFiles": [
+    "Java/'==' & 'equals()'.md",
+    "Java/Why is String immutable?.md",
+    "DSA/Trees/Lowest Common Acestor of a BST.md",
+    "Java",
     "DSA/Trees/LowestCommonAncestor.class",
     "DSA/Trees/TreeNode.class",
     "DSA/Trees/LowestCommonAncestor.java",
@@ -193,7 +197,6 @@
     "DSA/Trees/Low.java",
     "DSA/Trees/Lowest.java",
     "DSA/Trees/Lo.java",
-    "DSA/Trees/Level Order Traversal.md",
-    "DSA/Trees/Lowest Common Acestor of a BST.md"
+    "DSA/Trees/Level Order Traversal.md"
   ]
 }

@@ -1,0 +1,3 @@
+- Because strings are used as HashMap keys constantly, if they were mutable, changing a string after inserting it into a map would put it in the wrong bucket -- the map would become silently broken.
+- The **string pool** only works because strings are immutable -- the JVM can safely let multiple references share the same object, since none of them can change it.
+- Immutability also makes strings inherently **thread-safe** (no synchronization  needed) and safer for things like storing passwords/URLs where mutation could be a security hole. 
