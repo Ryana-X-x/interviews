@@ -31,7 +31,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,10 +194,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "1d85f6981c148158",
+  "active": "0cc63298c922ae72",
   "lastOpenFiles": [
-    "Behavioral/A time you didn't know how to solve something.md",
+    "Java/HashMap vs Hashtable vs ConcurrentHashMap.md",
     "OS/LRU Cache (HashMap + Doubly Linked List).md",
+    "Behavioral/A time you didn't know how to solve something.md",
     "Behavioral/A difficult technical problem you solved.md",
     "SpringBoot/1000 req?s but still DB handles 200 writes?s.md",
     "Behavioral",
@@ -217,7 +219,6 @@
     "DSA/Trees/Lowest Common Acestor of a BST.md",
     "DSA/Trees/LCA of a BST.md",
     "DSA/Trees/Untitled.base",
-    "Java/HashMap vs Hashtable vs ConcurrentHashMap.md",
     "Java/ArrayList vs LinkedList.md",
     "Java/Why is String immutable?.md",
     "Java/'==' & 'equals()'.md",
