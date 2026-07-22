@@ -1,2 +1,3 @@
 - **==Priority Queue==**
 - Have to find the largest element? can just use a max queue
+- In java the Priority Queue by default does a max heap, in c++ it is min heap by default.
