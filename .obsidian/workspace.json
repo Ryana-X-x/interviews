@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Array/Kth largest element.md",
+                "file": "Java/Try-With-Resources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kth largest element"
+              "title": "Try-With-Resources"
+            }
+          },
+          {
+            "id": "196eb4732107b68b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/ExecutorService vs manual Threads.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ExecutorService vs manual Threads"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 338.5
   },
   "right": {
     "id": "6eb82ceddbf50c7a",
@@ -198,13 +212,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "0cc63298c922ae72",
+  "active": "196eb4732107b68b",
   "lastOpenFiles": [
+    "Java/Try-With-Resources.md",
+    "Java/ExecutorService vs manual Threads.md",
+    "Java/Two Objects have the same hash code?.md",
+    "Java/Why should hashCode() and equals() always be overidden together?.md",
+    "Java/Difference between volatile and synchronized.md",
+    "DSA/Array/Kth largest element.md",
+    "DSA/Array/Find Peak Element.md",
     "DSA/Array/KthLargestElement.class",
     "DSA/Array/KthLargestElement.java",
     "DSA/Array/FindPeakElement.java",
-    "DSA/Array/Find Peak Element.md",
-    "DSA/Array/Kth largest element.md",
     "DSA/Array",
     "Java/HashMap vs Hashtable vs ConcurrentHashMap.md",
     "OS/LRU Cache (HashMap + Doubly Linked List).md",
@@ -223,7 +242,6 @@
     "OOP/The Four Pillars.md",
     "DBMS",
     "Java/'new HashMap<>()' internally.md",
-    "OOP",
     "DSA/Trees/Deleting a node from a BST.md",
     "DSA/Trees/Level Order Traversal.md",
     "DSA/Trees/Lowest Common Acestor of a BST.md",
