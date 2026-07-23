@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Trees/Deleting a node from a BST.md",
+                "file": "DBMS/What are ACID Properties.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deleting a node from a BST"
+              "title": "What are ACID Properties"
             }
           }
         ],
@@ -200,6 +200,8 @@
   },
   "active": "0cc63298c922ae72",
   "lastOpenFiles": [
+    "DSA/Trees/Deleting a node from a BST.md",
+    "DBMS/What are ACID Properties.md",
     "Pasted image 20260723021723.png",
     "DSA/Array/Kth largest element.md",
     "Java/Why should hashCode() and equals() always be overidden together?.md",
@@ -229,7 +231,6 @@
     "OOP/The Four Pillars.md",
     "DBMS",
     "Java/'new HashMap<>()' internally.md",
-    "DSA/Trees/Deleting a node from a BST.md",
     "DSA/Trees/Level Order Traversal.md",
     "DSA/Trees/Lowest Common Acestor of a BST.md",
     "DSA/Trees/LCA of a BST.md",
