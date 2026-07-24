@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Debugging/Debugging 2.md",
+                "file": "Behavioral/How do you prioritize multiple tasks with competing deadlines?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Debugging 2"
+              "title": "How do you prioritize multiple tasks with competing deadlines?"
             }
           }
         ],
@@ -200,10 +200,12 @@
   },
   "active": "0cc63298c922ae72",
   "lastOpenFiles": [
+    "Behavioral/Describe a situation where you had to learn from a bug you introduced..md",
+    "Behavioral/How do you prioritize multiple tasks with competing deadlines?.md",
+    "Debugging/Debugging 2.md",
     "Java/Heap and Stack.md",
     "Java/Callable vs Runnable.md",
     "SpringBoot/Duplicate Payment Processing.md",
-    "Debugging/Debugging 2.md",
     "SpringBoot/Should confirmation emails be sent inside the HTTP request?.md",
     "SpringBoot/Why should REST API's be stateless?.md",
     "CN/TCP vs UDP.md",
@@ -229,8 +231,6 @@
     "DSA/Array",
     "Java/HashMap vs Hashtable vs ConcurrentHashMap.md",
     "OS/LRU Cache (HashMap + Doubly Linked List).md",
-    "Behavioral/A time you didn't know how to solve something.md",
-    "Behavioral/A difficult technical problem you solved.md",
     "Behavioral",
     "SpringBoot",
     "CN",
