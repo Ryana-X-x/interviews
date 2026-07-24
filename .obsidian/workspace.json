@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Callable vs Runnable.md",
+                "file": "Debugging/Debugging 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Callable vs Runnable"
+              "title": "Debugging 2"
             }
           }
         ],
@@ -200,11 +200,19 @@
   },
   "active": "0cc63298c922ae72",
   "lastOpenFiles": [
-    "Java/Why is Optional useful?.md",
+    "Java/Heap and Stack.md",
     "Java/Callable vs Runnable.md",
+    "SpringBoot/Duplicate Payment Processing.md",
+    "Debugging/Debugging 2.md",
+    "SpringBoot/Should confirmation emails be sent inside the HTTP request?.md",
+    "SpringBoot/Why should REST API's be stateless?.md",
+    "CN/TCP vs UDP.md",
+    "DBMS/Deadlock.md",
+    "DBMS/Transaction.md",
+    "DBMS/Where vs Having.md",
+    "Java/Why is Optional useful?.md",
     "Java/Comparable vs Comparator.md",
     "Java/JVM Garbage Collector.md",
-    "Java/Heap and Stack.md",
     "DBMS/What are ACID Properties.md",
     "DSA/Trees/Deleting a node from a BST.md",
     "Pasted image 20260723021723.png",
@@ -223,19 +231,11 @@
     "OS/LRU Cache (HashMap + Doubly Linked List).md",
     "Behavioral/A time you didn't know how to solve something.md",
     "Behavioral/A difficult technical problem you solved.md",
-    "SpringBoot/1000 req?s but still DB handles 200 writes?s.md",
     "Behavioral",
-    "CN/TCP Three-Way Handshake.md",
     "SpringBoot",
-    "OS/Process vs Thread.md",
     "CN",
-    "DBMS/Indexing.md",
     "OS/Process vs Threads",
     "OS",
-    "DBMS/Delete vs Truncate vs Drop.md",
-    "OOP/The Four Pillars.md",
-    "DBMS",
-    "Java/'new HashMap<>()' internally.md",
-    "DSA/Trees/Level Order Traversal.md"
+    "DBMS"
   ]
 }
